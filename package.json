@@ -1,0 +1,29 @@
+{
+	"name": "nodejs-fxtrade-api",
+	"version": "0.0.1",
+	"description": "A Node.js module for accessing OANDA's fxTrade REST API",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonmiles/nodejs-fxtrade-api"
+	},
+	"keywords": [
+		"OANDA",
+		"fxTrade",
+		"Forex",
+		"Exchange Rates",
+		"nodejs",
+		"REST",
+		"API"
+	],
+	"author": {
+		"name": "Jon Miles"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"https-proxy-agent": "^0.3.4"
+	}
+}
